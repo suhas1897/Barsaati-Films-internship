@@ -74,6 +74,7 @@ twitter-trends-scraper/
 
 ## Images && Video
 
+[selinium.1](https://github.com/suhas1897/Barsaati-Films-internship/issues/1#issue-2337521970)
 
 
 ![image1](https://github.com/suhas1897/Barsaati-Films-internship/assets/170518948/847a68e9-acd4-47de-8f51-2389c8b84dfb)
@@ -87,5 +88,5 @@ twitter-trends-scraper/
 
 
 
-https://github.com/suhas1897/Barsaati-Films-internship/issues/1#issue-2337521970
+
 
