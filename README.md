@@ -47,12 +47,7 @@ Ensure your Twitter login credentials are valid and correctly entered in the app
 The script is configured to use Firefox as the browser for Selenium. Make sure you have Firefox installed.
 Adjust the WebDriverWait timeouts as needed based on your network speed and Twitter's response time.
 
-## Images && Video
 
-![image1](https://github.com/suhas1897/Barsaati-Films-internship/assets/170518948/847a68e9-acd4-47de-8f51-2389c8b84dfb)
-
-****
-![app python](https://github.com/suhas1897/Barsaati-Films-internship/assets/170518948/558bd7c4-4d2a-40a0-96fa-4baae30b7198)
 
 
 1. Clone the repository:
@@ -74,4 +69,17 @@ twitter-trends-scraper/
 ├── templates/
 │   └── index.html     # HTML template for the web interface
 └── README.md          # This README file
+
+```
+
+## Images && Video
+
+![image1](https://github.com/suhas1897/Barsaati-Films-internship/assets/170518948/847a68e9-acd4-47de-8f51-2389c8b84dfb)
+
+****
+![app python](https://github.com/suhas1897/Barsaati-Films-internship/assets/170518948/558bd7c4-4d2a-40a0-96fa-4baae30b7198)
+
+****
+
+![html code](https://github.com/suhas1897/Barsaati-Films-internship/assets/170518948/259d99c4-c72e-4bd5-bb8f-34b77b9eae49)
 
