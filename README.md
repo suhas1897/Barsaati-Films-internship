@@ -47,6 +47,10 @@ Ensure your Twitter login credentials are valid and correctly entered in the app
 The script is configured to use Firefox as the browser for Selenium. Make sure you have Firefox installed.
 Adjust the WebDriverWait timeouts as needed based on your network speed and Twitter's response time.
 
+## Images && Video
+
+![image1](https://github.com/suhas1897/Barsaati-Films-internship/assets/170518948/847a68e9-acd4-47de-8f51-2389c8b84dfb)
+
 
 1. Clone the repository:
 
